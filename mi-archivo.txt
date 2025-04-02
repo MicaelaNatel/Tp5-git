@@ -1,0 +1,2 @@
+Realizo archivo txt para subirlo al repositorio con los comandos git add .
+ y git commit -m "Agregando mi-archivo.txt" en la línea de comandos. 
